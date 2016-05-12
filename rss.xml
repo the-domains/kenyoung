@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[kenyoung]]></title>
         <description><![CDATA[kenyoung]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kenyoung/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 21:33:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 21:33:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kenyoung/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spotify's Design Lead on Why Side Projects Should Be Stupid]]></title>
+            <description><![CDATA[<article><h1>Spotify's Design Lead on Why Side Projects Should Be Stupid</h1><p>Tobias van Schneider lives his life like one big side project. Today, he designs and builds new products for Spotify in New York, but he couldn't have predicted that when he dropped out of school at age 15 to work as an apprentice in a computer shop in Austria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ed2e3065709ea706d3bf879a08399704e03b23c.jpg"></article>]]></description>
+            <link>http://firstround.com/review/Spotifys-Design-Lead-on-Why-Side-Projects-Should-be-Stupid/</link>
+            <guid isPermaLink="false">a1b747ee-c3bb-4c3f-a60a-bd4321a40b13</guid>
+            <pubDate>Thu, 12 May 2016 21:32:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Atmo Sfera Platterless Turntable Spins Vinyl in the Air]]></title>
             <description><![CDATA[<article><h1>Atmo Sfera Platterless Turntable Spins Vinyl in the Air</h1><p>Chicago's Gramovox already defied gravity with their vertical Floating Record Player, and now Italian start-up Audio Deva offers their own "upside-down" take on a turntable. It eschews the basic design that has "remained the same for about a century."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fb337561fce986fe123f7a74eb6e8ea6a39834a.jpg"></article>]]></description>
