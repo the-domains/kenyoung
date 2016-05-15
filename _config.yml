@@ -13,14 +13,14 @@ collections:
 typography_spectrum: 0.001981607638299465
 color:
   saturation: 0.2258327109739184
-  brandStrength: 0.5117068751715124
-  rhythmicContrast: 0.7203056626021862
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+  brandStrength: 1
   lightness: 0.01448287745006382
+  brandColors:
+    - '#3568B9'
+    - '#C39E83'
+    - '#CDDAE2'
+    - '#2B1D17'
+    - '#5FA4E8'
+  rhythmicContrast: 0.7203056626021862
 layout_spectrum: 1
 name: kenyoung
