@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.001981607638299465
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.2258327109739184
-  brandStrength: 1
-  lightness: 0.01448287745006382
+  saturation: 0.9135338
+  brandStrength: 0.4505908
+  lightness: 1
   brandColors:
     - '#3568B9'
     - '#C39E83'
     - '#CDDAE2'
     - '#2B1D17'
     - '#5FA4E8'
-  rhythmicContrast: 0.7203056626021862
+  rhythmicContrast: 0.8351235
+typography_spectrum: 0.001981607638299465
 layout_spectrum: 1
 name: kenyoung
