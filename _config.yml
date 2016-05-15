@@ -1,9 +1,19 @@
-layout_spectrum: 0.07903811102733016
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.001981607638299465
 color:
+  saturation: 0.2258327109739184
   brandStrength: 0.5117068751715124
-  lightness: 0.014482877450063825
-  saturation: 0.22583271097391844
   rhythmicContrast: 0.7203056626021862
   brandColors:
     - '#9D2D3C'
@@ -11,4 +21,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+  lightness: 0.01448287745006382
+layout_spectrum: 1
 name: kenyoung
