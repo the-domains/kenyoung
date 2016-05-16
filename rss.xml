@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ken young]]></title>
+        <description><![CDATA[ken young]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 May 2016 15:31:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stephen Hawking finds the inner genius in ordinary people]]></title>
+            <description><![CDATA[<article><h1>Stephen Hawking finds the inner genius in ordinary people</h1><p>I’d love to watch this, I wonder if they’ll show it on UK TV?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6223c38f9fd9803783d3dcb893d7ec43b1a1834b.jpg"></article>]]></description>
+            <link>https://www.sciencenews.org/article/stephen-hawking-finds-inner-genius-ordinary-people</link>
+            <guid isPermaLink="false">4ff1a0a8-ba04-4be9-a09d-51d0d68f6e0a</guid>
+            <pubDate>Mon, 16 May 2016 15:31:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
