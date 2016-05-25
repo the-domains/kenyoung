@@ -1,3 +1,7 @@
+name: ken young
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.001981607638299465
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9135338
-  brandStrength: 0.4505908
-  lightness: 1
   brandColors:
     - '#3568B9'
     - '#C39E83'
     - '#CDDAE2'
     - '#2B1D17'
     - '#5FA4E8'
+  brandStrength: 0.4505908
+  lightness: 1
+  saturation: 0.9135338
   rhythmicContrast: 0.8351235
-typography_spectrum: 0.001981607638299465
-layout_spectrum: 1
-name: kenyoung
+purpose: []
